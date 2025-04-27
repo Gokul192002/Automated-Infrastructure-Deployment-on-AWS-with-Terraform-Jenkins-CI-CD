@@ -33,3 +33,16 @@ aws-terraform-jenkins-cicd/
 ├── scripts/ # Bash scripts for server setup
 ├── jenkins/ # Jenkinsfile for pipeline 
 ├── README.md # This file
+
+
+
+## ⚡ Setup Instructions
+- Configure AWS credentials on Jenkins
+- Connect GitHub repo with Jenkins
+- Create a freestyle/ pipeline job in Jenkins
+- Run the pipeline to deploy infra
+
+## 👨‍💻 Author
+- Gokulnath V
+- [LinkedIn Profile](https://www.linkedin.com/in/gokulnathv--/)
+
